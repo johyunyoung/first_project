@@ -92,6 +92,6 @@ MDN
 const first = document.querySelector("#first")
 
 function handleClick(){
-    first.style.backgroundColor = "red";
+    first.style.backgroundColor = "blue";
 }
 first.addEventListener("click", handleClick)
